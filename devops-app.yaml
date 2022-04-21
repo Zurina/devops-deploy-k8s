@@ -7,7 +7,7 @@ metadata:
 spec:
   containers:
     - name: devops
-      image: immassive/devops:7
+      image: immassive/devops:IMAGE_ID
       ports:
       - containerPort: 8080
 ---
